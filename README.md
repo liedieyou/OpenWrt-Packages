@@ -16,6 +16,6 @@
 |[luci-app-sms-tool-js](https://github.com/4IceG/luci-app-sms-tool-js)|4IceG|sms-tool 短信插件|multi|20240827|
 |[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20240828|
 |[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|multi|20240820|
-|[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|xiaorouji|homeproxy|multi|20240822|
-|[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|xiaorouji|网络设置向导|multi|20240410|
-|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|xiaorouji|高级设置|multi|20240411|
+|[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|multi|20240822|
+|[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|multi|20240410|
+|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|multi|20240411|
