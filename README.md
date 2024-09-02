@@ -8,7 +8,7 @@
 |[luci-app-autotimeset](https://github.com/sirpdboy/luci-app-autotimeset)|sirpdboy|定时任务|single|20240410|
 |[luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome)|rufengsuixing|adguardhome|single|20200113|
 |[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)|pymumu|smartdns|single|20240503|
-|[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)|sbwml|mosdns|single|20240825|
+|[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)|sbwml|mosdns|single|20240902|
 |[v2ray-geodata](https://github.com/sbwml/v2ray-geodata)|sbwml|mosdns 依赖|single|20240603|
 |[luci-app-modem](https://github.com/Siriling/5G-Modem-Support)|Siriling|4G/5G Modem 拨号|single|20240723|
 |[luci-app-modemband](https://github.com/4IceG/luci-app-modemband)|4IceG|4G/5G 基站绑定|single|20240622|
@@ -16,7 +16,7 @@
 |[luci-app-sms-tool-js](https://github.com/4IceG/luci-app-sms-tool-js)|4IceG|sms-tool 短信插件|single|20240829|
 |[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20240901|
 |[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|single|20240830|
-|[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|single|20240831|
+|[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|single|20240902|
 |[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|single|20240410|
 |[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20240411|
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|IP监控|single|20240217|
