@@ -21,3 +21,5 @@
 |[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20240411|
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|IP监控|single|20240217|
 |[wrtbwmon-packages](https://github.com/brvphoenix/wrtbwmon)|brvphoenix|IP监控依赖|single|20201201|
+|[luci-app-quickstart](https://github.com/kenzok8/small-package/tree/main/luci-app-quickstart)|small-package|quickstart|single|20201201|
+|[luci-app-netspeedtest](https://github.com/kenzok8/small-package/tree/main/luci-app-netspeedtest)|small-package|网络测速|single|20201201|
