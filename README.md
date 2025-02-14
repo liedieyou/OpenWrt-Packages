@@ -18,7 +18,7 @@
 |[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|single|20250214|
 |[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|single|20250206|
 |[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|single|20240410|
-|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20250213|
+|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20250214|
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|IP监控|single|20240217|
 |[wrtbwmon-packages](https://github.com/brvphoenix/wrtbwmon)|brvphoenix|IP监控依赖|single|20201201|
 |[luci-app-netspeedtest](https://github.com/sirpdboy/netspeedtest)|sirpdboy|网络测速|single|20250104|
