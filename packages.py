@@ -61,6 +61,8 @@ class PACKAGE(object):
         if self.type == 'multi':
             if self.name == 'luci-app-store': # 特殊处理
                 tmp += '/luci'
+            elif self.name == 'quectel-mhi-pcie': # 特殊处理
+                tmp += '/drivers/quectel-mhi-pcie'
             dirList = self.__ListDir(tmp)
         else:
             self.__RemoveDir(tmp)
