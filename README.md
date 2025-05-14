@@ -5,7 +5,7 @@
 |:-|:-|:-|:-|:-|
 |[golang](https://github.com/sbwml/packages_lang_golang)|sbwml|golang(geodata、xray 等依赖高版本 go)|single|20250507|
 |[luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)|jerrykuku|argon 主题|single|20250512|
-|[luci-app-autotimeset](https://github.com/sirpdboy/luci-app-autotimeset)|sirpdboy|定时任务|single|20250409|
+|[luci-app-autotimeset](https://github.com/sirpdboy/luci-app-autotimeset)|sirpdboy|定时任务|single|20250514|
 |[luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome)|rufengsuixing|adguardhome|single|20200113|
 |[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)|pymumu|smartdns|single|20250220|
 |[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)|sbwml|mosdns|single|20250315|
@@ -17,8 +17,8 @@
 |[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20250507|
 |[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|single|20250513|
 |[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|single|20250513|
-|[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|single|20250427|
-|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20250326|
+|[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|single|20250514|
+|[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20250514|
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|IP监控|single|20240217|
 |[wrtbwmon-packages](https://github.com/brvphoenix/wrtbwmon)|brvphoenix|IP监控依赖|single|20201201|
 |[luci-app-netspeedtest](https://github.com/sirpdboy/netspeedtest)|sirpdboy|网络测速|single|20250514|
