@@ -22,6 +22,6 @@
 |[luci-app-wrtbwmon](https://github.com/brvphoenix/luci-app-wrtbwmon)|brvphoenix|IP监控|single|20240217|
 |[wrtbwmon-packages](https://github.com/brvphoenix/wrtbwmon)|brvphoenix|IP监控依赖|single|20201201|
 |[luci-app-netspeedtest](https://github.com/sirpdboy/netspeedtest)|sirpdboy|网络测速|single|20250614|
-|[luci-app-store](https://github.com/linkease/istore)|linkease|istore 应用市场|multi|20250620|
+|[luci-app-store](https://github.com/linkease/istore)|linkease|istore 应用市场|multi|20250625|
 |[luci-app-openclash](https://github.com/vernesong/OpenClash)|vernesong|openclash|single|20250616|
 |[wwan-packages](https://github.com/immortalwrt/wwan-packages)|immortalwrt|最新5G模块驱动|multi|20250604|
