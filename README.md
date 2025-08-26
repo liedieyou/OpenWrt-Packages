@@ -4,7 +4,7 @@
 |软件|作者|功能|包类型|更新日期|
 |:-|:-|:-|:-|:-|
 |[golang](https://github.com/sbwml/packages_lang_golang)|sbwml|golang(geodata、xray 等依赖高版本 go)|single|20250807|
-|[luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)|jerrykuku|argon 主题|single|20250811|
+|[luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)|jerrykuku|argon 主题|single|20250826|
 |[luci-app-autotimeset](https://github.com/sirpdboy/luci-app-autotimeset)|sirpdboy|定时任务|single|20250810|
 |[luci-app-adguardhome](https://github.com/rufengsuixing/luci-app-adguardhome)|rufengsuixing|adguardhome|single|20200113|
 |[luci-app-smartdns](https://github.com/pymumu/luci-app-smartdns)|pymumu|smartdns|single|20250803|
@@ -14,8 +14,8 @@
 |[luci-app-modemband](https://github.com/4IceG/luci-app-modemband)|4IceG|4G/5G 基站绑定|single|20250528|
 |[luci-app-3ginfo-lite](https://github.com/4IceG/luci-app-3ginfo-lite)|4IceG|4G/5G 信号查看|single|20250812|
 |[luci-app-sms-tool-js](https://github.com/4IceG/luci-app-sms-tool-js)|4IceG|sms-tool 短信插件|single|20250609|
-|[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20250825|
-|[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|single|20250824|
+|[luci-app-passwall2](https://github.com/xiaorouji/openwrt-passwall2)|xiaorouji|passwall2|multi|20250826|
+|[passwall-packages](https://github.com/xiaorouji/openwrt-passwall-packages)|xiaorouji|passwall 依赖|single|20250826|
 |[luci-app-homeproxy](https://github.com/immortalwrt/homeproxy)|immortalwrt|homeproxy|single|20250824|
 |[luci-app-netwizard](https://github.com/sirpdboy/luci-app-netwizard)|sirpdboy|网络设置向导|single|20250813|
 |[luci-app-advancedplus](https://github.com/sirpdboy/luci-app-advancedplus)|sirpdboy|高级设置|single|20250807|
