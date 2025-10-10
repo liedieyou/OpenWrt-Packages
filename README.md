@@ -24,4 +24,4 @@
 |[luci-app-netspeedtest](https://github.com/sirpdboy/netspeedtest)|sirpdboy|网络测速|single|20250810|
 |[luci-app-store](https://github.com/linkease/istore)|linkease|istore 应用市场|multi|20250625|
 |[luci-app-openclash](https://github.com/vernesong/OpenClash)|vernesong|openclash|single|20251007|
-|[wwan-packages](https://github.com/immortalwrt/wwan-packages)|immortalwrt|最新5G模块驱动|multi|20250909|
+|[wwan-packages](https://github.com/immortalwrt/wwan-packages)|immortalwrt|最新5G模块驱动|multi|20251010|
